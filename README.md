@@ -98,6 +98,7 @@ This framework provides the power of *You focus on the bot’s functionality, th
       creating identification files for your new bot...
 
       ----------------OW PROJECT--------------------
+      Enter your OW main (without namespace and/or package) end-point for web actions: <https://<example-preview.company.xyz>/api/v1/web/>
       Enter the name of your OW namespace: <your OW namespace>
       Enter the name of your bot project (package name): <project name>
       You package names is: "<project name>". Please remember this name!
