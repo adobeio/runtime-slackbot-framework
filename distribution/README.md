@@ -4,7 +4,7 @@
 
 This information will come in details very soon. For now, please go to [this link](https://api.slack.com/apps) and:
 
-  * Click un your **App**.
+  * Click in your **App**.
   * Under **settings** click on **Manage Distribution**.
 
-### More info coming! :)
+### More info coming soon :smiley:
