@@ -48,7 +48,8 @@
    // paths
    public static final String LIB_PATH = "./lib/";
    public static final String PARAMS_PATH = LIB_PATH + "params/";
-   public static final String LINKS_PATH = "https://runtime-preview.adobe.io/api/v1/web/";
+   // is dinamically set by user input, trusting user input.
+   public static String LINKS_PATH = "";
 
 
    // parameter files
@@ -121,6 +122,8 @@
 
       // Ask user for name of OW package in where to store the bot project
       System.out.println("----------------OW PROJECT---------------");
+      System.out.println("Enter your OW main (without namespace and/or package) end-point for web actions: ");
+      LINKS_PATH = input.nextLine();
       System.out.print("Enter the name of your OW namespace: ");
       String namespaceName = input.nextLine();
       System.out.print("Enter the name of your bot project (package name): ");

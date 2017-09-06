@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 **Author:** *Esteban Posada* |
-**Email:** *epm105@hotmail.com*
+**Email:** *epm105@hotmail.com* |
+**Copyright:** *Adobe 2017*
 
 > Status: In Progress
 
