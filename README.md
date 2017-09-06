@@ -1,5 +1,7 @@
 # Create a Slack Bot in 10 steps! We do it Serverless using OpenWhisk
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 **Author:** *Esteban Posada* |
 **Email:** *epm105@hotmail.com*
 
@@ -203,7 +205,7 @@ Thanks for taking the time to read through this tutorial! We hope this was usefu
  * ### Have an Issue?
 
    * Post and Issue in this [link](https://git.corp.adobe.com/posada/slackbot-library/issues)
-   * Email us to **epm105@hotmail.com**
+   * Email us to epm105@hotmail.com
 
  * ### Want to contribute?
 

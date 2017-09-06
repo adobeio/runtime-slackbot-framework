@@ -1,5 +1,7 @@
 ## The Flow Diagram of the Slack Bot Application using OpenWhisk
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 ![Flow Chart](ow-flow-diagram.png)
 
 ---
@@ -35,13 +37,13 @@ description of what each file does.
 ## To see the functions' documentation for each library file visit these links:
 
   * [authenticationLib file](https://git.corp.adobe.com/pages/posada/slackbot-library/documentation/authenticationLib.html)
-  
+
   * [eventsLib file](https://git.corp.adobe.com/pages/posada/slackbot-library/documentation/eventsLib.html)
-  
+
   * [commandsLib file](https://git.corp.adobe.com/pages/posada/slackbot-library/documentation/commandsLib.html)
-  
+
   * [verificationLib file](https://git.corp.adobe.com/pages/posada/slackbot-library/documentation/commandsLib.html)
-  
+
 ---
 ## Need help? There is a bug? Want to Contribute? Something out of date?
 
@@ -50,4 +52,3 @@ Thanks for taking the time to read through this tutorial! We hope this was usefu
 **posada@adobe.com**
 
 If you want to contribute, please send us a **Pull Request** and we will reach to you as soon as we can!
-

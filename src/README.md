@@ -1,5 +1,7 @@
 ## How to create new commands:
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 **1.** Open in your favorite editor the file **commandHandlers.js**
 
   * You will see that there is already one function that will handle the `/parrot` command. We will now show you how to create your own commands.
@@ -58,7 +60,7 @@ way you can send back a response: [Responding to a command.](https://api.slack.c
   * You will see that there is already one function that handles `message` event. We will now show you how to create your own events.
 
 **2.** Go to the **Slack API Webpage** and under **Features** click on **Event Subscriptions**.
-  
+
   * You will see that there are two sections: **Subscribe to Team Events** and **Subscribe to Bot Events**. I will not explain the difference neither talk about all the types of events you can add, that is for sure something that depends on what type of bot you want to create. To learn about events go to this link: [Events API.](https://api.slack.com/events-api)
 
 **3.** If you go back to the **eventHandlers.js** file, you will see an instruction saying that every event you create you will need to have a function to handle it and add into the `events map:`

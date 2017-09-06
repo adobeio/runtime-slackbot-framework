@@ -1,5 +1,7 @@
 ## Debugging your commands or events functions:
 
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+
 Debug your new command and events functions using **OpenWhisk**.
 
 #### The current way of seeing logs:
