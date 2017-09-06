@@ -2,7 +2,6 @@
   "name": "serverles-slackbot-framework",
   "version": "1.0.0",
   "description": "The easiest way to create your own Serverless Slack Bot!",
-  "main": "index.js",
   "dependencies": {
     "openwhisk-cache-redis": "https://artifactory.corp.adobe.com/artifactory/api/npm/npm-runner-release/openwhisk-cache-redis/-/openwhisk-cache-redis-0.0.2.tgz"
   },
@@ -29,7 +28,8 @@
     "Bot",
     "Slack",
     "Openwhisk",
-    "OW"
+    "OW",
+    "OpenSource"
   ],
   "author": "Esteban Posada <epm105@hotmail.com>",
   "license": "Apache License, Version 2.0"

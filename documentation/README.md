@@ -47,8 +47,6 @@ description of what each file does.
 ---
 ## Need help? There is a bug? Want to Contribute? Something out of date?
 
-Thanks for taking the time to read through this tutorial! We hope this was useful, we are always trying to make your life as a developer easier. If you find a bug or want to ask us something please send us an email to:
-
-**posada@adobe.com**
-
-If you want to contribute, please send us a **Pull Request** and we will reach to you as soon as we can!
+  * Post and Issue in this [link](https://git.corp.adobe.com/posada/serverless-slackbot-framework/issues)
+  * Email us to epm105@hotmail.com
+  * To contribute: [click here.](../CONTRIBUTING.md)

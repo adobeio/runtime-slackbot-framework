@@ -204,7 +204,7 @@ Thanks for taking the time to read through this tutorial! We hope this was usefu
 
  * ### Have an Issue?
 
-   * Post and Issue in this [link](https://git.corp.adobe.com/posada/slackbot-library/issues)
+   * Post and Issue in this [link](https://git.corp.adobe.com/posada/serverless-slackbot-framework/issues)
    * Email us to epm105@hotmail.com
 
  * ### Want to contribute?
@@ -214,3 +214,7 @@ Thanks for taking the time to read through this tutorial! We hope this was usefu
  * ### Licensing
 
    * This project is licensed under the Apache V2 License. See [License](LICENSE) for more information.
+
+ * ### Code of Conduct
+
+   * Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
