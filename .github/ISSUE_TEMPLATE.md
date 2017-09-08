@@ -19,6 +19,6 @@ Do _NOT_ paste your full framework logs here, as it will make this issue very lo
 If you are reporting a bug, _always_ include framework logs!
 
 
-## Code To Reproduce Issue [ Good To Have ]
+## Code To Reproduce Issue
 
 Please remember that with sample code it's easier to reproduce the bug and it's much faster to fix it.
